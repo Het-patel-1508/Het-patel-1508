@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Het-patel-1508
-- 👀 I’m interested in technlology since my childhood
+- 👀 Tech Learner 
 
 
 <!---
