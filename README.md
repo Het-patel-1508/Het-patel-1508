@@ -47,9 +47,9 @@ A web app for encrypted note-taking with categories, reminders, and dark mode.
 
 📜 Certifications
 
-- ✅ AWS Academy Cloud Foundations  
-- ✅ Ethical Hacking - Udemy  
-- ✅ Blockchain Basics – Coursera  
+- ✅ AWS Academy Cloud Foundations (working on it) 
+- ✅ SQL course-Data Flair
+- ✅ DSA- Data Flair
 
 
 
