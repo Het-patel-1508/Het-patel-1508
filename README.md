@@ -5,7 +5,7 @@
 
 💡 Exploring Full Stack Development, Blockchain for Privacy, and Applied AI  
 🎯 Hackathon Experience @ HackOut 24 | Leader of Team Code Brewers  
-🚀 Building: Secure eCommerce, Smart Note Apps, Ride Sharing Solutions
+🚀 Building: Smart Note Apps,Supply chain management
 
 
  🔗 Connect with Me
@@ -38,10 +38,6 @@ Git | GitHub | Docker | Replit
  🛒 Feebo – Secure E-commerce Platform  
 **MERN Stack | STRIDE Threat Modeling | SonarQube + OWASP ZAP**  
 An e-commerce web app with a layered security architecture. Includes user roles, secure payments, trust-boundary DFDs, and penetration testing report.
-
-### 🔐 Blockchain-Powered Health Privacy System  
-**React | Solidity | IPFS | Web3.js**  
-Privacy-preserving patient data sharing using Ethereum blockchain and decentralized storage.
 
 ### 📔 SafeStack  
 **Google Keep Clone | Render Hosted | Password-Secured**  
